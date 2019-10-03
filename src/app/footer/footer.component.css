@@ -16,10 +16,11 @@
 }
 
 .rodape {
-    background: #ddd;
+    background: #000080;
     height: 5vh;
 }
 
 .rodape p {
     padding-top: 6px;
+    color: #8787c7;
 }
